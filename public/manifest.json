@@ -1,0 +1,40 @@
+{
+  "short_name": "TODO",
+  "name": "TODO",
+  "icons": [
+   {
+     "src":"./icons/48.png",
+     "sizes":"48x48"
+   },
+   {
+    "src":"./icons/72.png",
+    "sizes":"72x72"
+  },
+  {
+    "src":"./icons/96.png",
+    "sizes":"96x96"
+  },
+  {
+    "src":"./icons/128.png",
+    "sizes":"128x128"
+  },
+  {
+    "src":"./icons/144.png",
+    "sizes":"144x144"
+  },
+  {
+    "src":"./icons/192.png",
+    "sizes":"192x192"
+  },
+  {
+    "src":"./icons/512.png",
+    "sizes":"512x512"
+  }
+  ],
+  "start_url": ".",
+  "description":"Task managing App",
+  "display": "standalone",
+  "orientation":"portrait",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
