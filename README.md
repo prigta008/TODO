@@ -1,6 +1,6 @@
 # To-Do App
 
-> Last Updated on Sept. 20, 2021
+> Last Updated on Sept. 21, 2021
 ---
 ## Introduction
     Do you have lots of tasks to do, but am unable to manage them.
@@ -10,3 +10,12 @@
 ## Depedencies 
     It is made by Using 
     React, Bulma, Sweetalert, google fonts, workbox, etc.
+---
+## Features
+    1) It uses LocalStorage to store the data.
+    2) It is fully flexible to CRUD operations of the task.
+    3) You can create reminder by clicking on + icon and enteries other details
+    4) You can check the task, edit the reminder, and delete the reminder.
+
+> Note : By clearing cookies( using in browser ) or clearing cache/user data (installed as PWA),
+> Data is lost.
