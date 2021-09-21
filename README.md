@@ -3,7 +3,7 @@
 > Last Updated on Sept. 21, 2021
 ---
 ## Introduction
-    Do you have lots of tasks to do, but am unable to manage them.
+    Do you have lots of tasks to do, but unable to manage them.
     So, To-Do App can handle the task.
     Install it as extension at https://to-do-123.netlify.app/
 ---
